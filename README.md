@@ -10,3 +10,4 @@
 |--------|-----------|-----------|
 | 松鼠 | github https://github.com/0xsongsu <br> 推特 https://x.com/Johnze268 | dailytask 仓库汇总了很多领水和签到脚本，代码写的很干净 |
 | 哪吒 | github https://github.com/0xnezha <br> 推特 https://x.com/0xnezha | stark 开发者奖励领了10w个 |
+| 旺仔 | github https://github.com/COINsciencer <br> 推特 https://x.com/howbuybtc | evm 链上自动化，看 web3 仓库就够了，代码功底深厚 |
